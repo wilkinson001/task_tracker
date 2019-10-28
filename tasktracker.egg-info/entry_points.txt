@@ -1,0 +1,3 @@
+[console_scripts]
+task_tracker = task_tracker.__main__:main
+
